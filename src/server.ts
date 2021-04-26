@@ -1,5 +1,5 @@
 import expresss, { response } from "express";
-
+import './database';
 const app = expresss();
 
 
